@@ -1,7 +1,7 @@
 Last.fm's autocorrection has improved things, but there are still a bunch of
 mistagged artists and tracks.  Enter the [Auto-Correction Brigade].
 
-However, doing all this manually is a pain.  Enter [the batch processor]
+However, doing all this manually is a pain.  Enter [the batch processor][0]
 ([gcode]).
 
 However, getting a Perl script to run on people's machines is a PITA, and the
@@ -9,7 +9,7 @@ track-submission process is slow and a little annoying.  Enter the
 autocorrectionator.
 
 [Auto-Correction Brigade]: http://www.last.fm/group/The+Auto-Correct+Correction+Brigade
-[the batch processor]: http://www.last.fm/group/The+Auto-Correct+Correction+Brigade/forum/119632/_/522400
+[0]: http://www.last.fm/group/The+Auto-Correct+Correction+Brigade/forum/119632/_/522400
 [gcode]: http://code.google.com/p/rowaasr13-lastfm-pl/downloads/list
 
 # What
